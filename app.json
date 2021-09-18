@@ -1,7 +1,12 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "coins-market",
     "slug": "coins-market",
+=======
+    "name": "practice",
+    "slug": "practice",
+>>>>>>> 386551eae497b13df7fb040d1c2407678281a5cd
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
